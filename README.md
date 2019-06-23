@@ -8,7 +8,7 @@ Atualmente servirá apenas para documentação mínima do PaaS da Etica.AI. Veja
 
 ## Guia e uso do Paas Etica.Dev
 
-Veja também [Etica.AI](paas/).
+Veja também [Documentação de desenvolvedor usuário do PaaS da Etica.AI (Tsuru.io)](paas/).
 
 ## Da responsabilidade legal e autoral de material em *.etica.dev
 
